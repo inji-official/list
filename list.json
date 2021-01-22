@@ -1,0 +1,13 @@
+
+{
+  automated: [
+    'tipu',
+    'pixresteemer',
+    'hivebuzz',
+    'poshbot',
+    'wine.bot',
+    'beerlover',
+    'rutablockchain',
+  ],
+  misc: ['corona.alert'],
+}

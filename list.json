@@ -1,13 +1,14 @@
-
 {
-  automated: [
-    'tipu',
-    'pixresteemer',
-    'hivebuzz',
-    'poshbot',
-    'wine.bot',
-    'beerlover',
-    'rutablockchain',
+  "automated": [
+    "tipu",
+    "pixresteemer",
+    "hivebuzz",
+    "poshbot",
+    "wine.bot",
+    "beerlover",
+    "rutablockchain"
   ],
-  misc: ['corona.alert'],
+  "misc": [
+    "corona.alert"
+  ]
 }

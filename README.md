@@ -16,6 +16,4 @@ If an account is in a group within `list.json`, it's due to the following reason
 
 ---
 
-**Important:** Please refrain from asking us to remove accounts from this list.
-
-*Remember: The content/account is still accessible via the Hive blockchain and possibly also via other Hive interfaces if it's not blocked there as well.*
+**Important:** Please refrain from asking us to remove accounts from this list. Remember: The content/account is still accessible via the Hive blockchain and possibly also via other Hive interfaces if it's not blocked there as well. Thank you!

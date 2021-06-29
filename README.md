@@ -9,9 +9,13 @@ If an account is in a group within `list.json`, it's due to the following reason
 ## Explanation
 
 - `automated`: We don't show automated comments.
-- `political`: We don't show political/highly-controversial content.
+- `political`: We don't show political/highly controversial content/accounts.
 - `banned`: Accounts who infringed against our ToS or Community Guidelines.
+
+
 
 ---
 
-*Remember: The content/account is still accesible via the blockchain and possibly also via other Hive interfaces, if not blocked there as well.*
+**Important:** Please refrain from asking us to remove accounts from this list.
+
+*Remember: The content/account is still accessible via the Hive blockchain and possibly also via other Hive interfaces if it's not blocked there as well.*

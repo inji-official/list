@@ -14,13 +14,12 @@
     "luvshares",
     "poshtoken"
   ],
-  "misc": [
-    "corona.alert"
-  ],
   "political": [
     "theouterlight",
     "kennyskitchen",
     "wearechange-co",
-    "activistpost"
-  ]
+    "activistpost",
+    "corona.alert"
+  ],
+  "banned": []
 }

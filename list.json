@@ -27,5 +27,6 @@
     "maxigan",
     "pressfortruth"
   ],
-  "banned": ["gangstalking"]
+  "spam": ["gangstalking"],
+  "banned": []
 }
